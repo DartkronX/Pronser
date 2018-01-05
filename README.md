@@ -1,4 +1,4 @@
-# Pronser
+# Pronser : Make .NSE simple
 Tool to make Nmap .nse scripts simple for use
 
 Written in python
